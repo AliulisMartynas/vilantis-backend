@@ -16,5 +16,7 @@ Activate the virtual environment:\
 -If you are on Linux or Mac\
 source env/bin/activate
 
+Install the requirements: pip install -r requirements.txt
+
 Run the app with command:
 python manage.py runserver

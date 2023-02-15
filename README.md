@@ -1,5 +1,5 @@
 Clone the repository using command: 
-https://github.com/AliulisMartynas/vilantis-backend.git
+git clone https://github.com/AliulisMartynas/vilantis-backend.git
 
 Move to project directory: 
 cd vilantis-backend

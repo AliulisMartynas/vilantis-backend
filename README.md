@@ -32,9 +32,9 @@ The short urls suffix is generated using random library, creating a 5 character 
 
 Tasks completed:
 
-Required requirements:
+Required requirements:/
 Did all of them except for writing tests
 
-Optional requirements:
-Implemented admin page where it is possible to delete or deactivate shortened urls,
+Optional requirements:/
+Implemented admin page where it is possible to delete or deactivate shortened urls,/
 limited maximum number of clicks to 5 - after clicks amount reaches 5, the url gets deactivated. In admin interface, pressing activate on a disabled short url with 5 clicks, changes the number of clicks back to 0.
